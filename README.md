@@ -1,6 +1,6 @@
 make website go brrrr
 
-![Profile Views Count Badge](https://komarev.com)
+![Profile Views Count Badge](https://komarev.com/ghpvc/?username=O12097&style=for-the-badge)
 <!-- <hr>
 <h2>Others</h2>
 <details>
