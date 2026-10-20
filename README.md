@@ -1,9 +1,6 @@
-<div>
-    <p>
-        make website go brrrr
-    </p>
-    <img src="https://komarev.com/ghpvc/?username=O12097&style=for-the-badge" alt="Profile Views Count Badge">
-</div>
+make website go brrrr
+
+![Profile Views Count Badge](https://komarev.com)
 <!-- <hr>
 <h2>Others</h2>
 <details>
