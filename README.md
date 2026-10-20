@@ -3,7 +3,7 @@
         make website go brrrr
     </p>
     <p>
-        <img src="https://komarev.com/ghpvc/?username=O12097&style=for-the-badge" alt="Profile Views Count Badge">
+        <img src="https://komarev.com/ghpvc/?username=O12097&style=for-the-badge&v=1" alt="Profile Views Count Badge">
     </p>
 </div>
 <!-- <hr>
